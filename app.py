@@ -5,4 +5,7 @@ def convert_to_list(list_string):
   nums = []
   for items in parts:
     cleaned = item.strip()
-    if cleared !="": 
+    if cleared !="":
+      nums.append(int(cleaned))
+  return nums
+  
