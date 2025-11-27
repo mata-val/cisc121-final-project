@@ -5,7 +5,7 @@ The algorithm I chose is Linear Search. I chose this algorithm because it is sim
 
 ## Problem Breakdown & Computational Thinking
 
-###Decomposition 
+### Decomposition 
 I broke my project into steps to make it easier to implement:
 1. Have a user input a list of numbers separated by commas, a target value, and click to see each step of the search.
 2. I split the string input by the user into the parts where the comma is 
