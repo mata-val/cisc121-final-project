@@ -54,7 +54,7 @@ Output
   https://huggingface.co/spaces/valeria-1m/LinearSearch
 
   ## Author & Acknowledgment
-  Valeria Mata Garcia 25smcj@queensu.ca
-  AI Level 4 (ChatGPT) was used inside of this project
-  Python Version: 3.14.0 UI Framework: Gradio
-  Course information: CISC 121
+ - Valeria Mata Garcia 25smcj@queensu.ca
+ - AI Level 4 (ChatGPT) was used inside of this project
+ - Python Version: 3.14.0 UI Framework: Gradio
+ - Course information: CISC 121
