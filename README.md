@@ -3,6 +3,9 @@
 ## Chosen Algorithm
 The algorithm I chose is Linear Search. I chose this algorithm because it is simple, easy to understand, and very straightforward to visualize. Since this project is about creating an educational app that shows how an algorithm works, choosing something I fully understand makes it easier for me to explain the steps clearly and show them in a user-friendly way.
 
+## Demo video/gif/screenshot of test 
+[Screen Recording 2025-12-05 at 3.22.59 PM.zip](https://github.com/user-attachments/files/23970205/Screen.Recording.2025-12-05.at.3.22.59.PM.zip)
+
 ## Problem Breakdown & Computational Thinking
 
 ### Decomposition 
@@ -42,4 +45,16 @@ Process
 Output 
 - A text box in Gradio app that shows:
 - Each step of the search
+- If numbers or target not inserted properly an error will show 
 - A final line saying whether the target was found, at what index, or that it was not found
+  <img width="730" height="1358" alt="image" src="https://github.com/user-attachments/assets/b1ee1d54-2a64-4302-bc30-f74d38733bea" />
+
+
+  ## Hugging Face Link
+  https://huggingface.co/spaces/valeria-1m/LinearSearch
+
+  ## Author & Acknowledgment
+  Valeria Mata Garcia 25smcj@queensu.ca
+  AI Level 4 (ChatGPT) was used inside of this project
+  Python Version: 3.14.0 UI Framework: Gradio
+  Course information: CISC 121
